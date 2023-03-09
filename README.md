@@ -43,12 +43,10 @@ Ative o ambiente python
 source ./venv/bin/activate
 ```
 
-Instale a biblioteca Pytube
 
-```
-E estamos prontos para rodar os códigos.
+Estamos prontos para rodar os códigos.
 
-```
+
 
 ## ⛏️ Criado com <a name = "criado_com"></a>
 
